@@ -19,3 +19,8 @@
 
 # Go workspace file
 go.work
+
+# IDE configurations
+.devcontainer/
+.idea/
+.vscode/
