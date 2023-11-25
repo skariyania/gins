@@ -24,3 +24,6 @@ go.work
 .devcontainer/
 .idea/
 .vscode/
+
+# build file
+api
